@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-03-05T03:49:16.120Z,38.8209991,-122.7645035,2.73,0.74,md,9,192,0.01036,0.01,nc,nc73701476,2022-03-05T03:50:51.328Z,"4km W of Cobb, CA",earthquake,0.96,1.36,0.09,2,automatic,nc,nc
 2022-03-05T03:17:45.150Z,38.8195,-122.8580017,2.61,1.68,md,24,76,0.008082,0.05,nc,nc73701471,2022-03-05T03:33:15.567Z,"10km WNW of The Geysers, CA",earthquake,0.28,0.48,0.1,6,automatic,nc,nc
 2022-03-05T03:11:56.122Z,-25.2208,-179.9245,469.87,4.3,mb,,99,4.402,0.86,us,us6000h28l,2022-03-05T03:35:58.040Z,"south of the Fiji Islands",earthquake,11.5,10.3,0.147,15,reviewed,us,us
 2022-03-05T03:10:26.046Z,62.4363,-149.3666,50.6,1.7,ml,,,,0.65,ak,ak0222xw8pl6,2022-03-05T03:15:17.453Z,"37 km E of Chase, Alaska",earthquake,,0.7,,,automatic,ak,ak
