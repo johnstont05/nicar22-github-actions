@@ -1,6 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2022-03-05T02:47:00.660Z,38.8260002,-122.8528366,2.44,0.37,md,11,79,0.00351,0.01,nc,nc73701461,2022-03-05T02:54:10.337Z,"10km WNW of The Geysers, CA",earthquake,0.38,1.04,,1,automatic,nc,nc
-2022-03-05T02:42:13.250Z,38.8160019,-122.7946701,2.52,0.34,md,8,95,0.008037,0.01,nc,nc73701451,2022-03-05T02:50:10.307Z,"5km NW of The Geysers, CA",earthquake,0.53,2.69,,1,automatic,nc,nc
+2022-03-05T02:42:13.250Z,38.8160019,-122.7946701,2.52,0.34,md,8,95,0.008037,0.01,nc,nc73701451,2022-03-05T03:02:13.388Z,"5km NW of The Geysers, CA",earthquake,0.53,2.69,,1,automatic,nc,nc
 2022-03-05T02:22:51.720Z,17.9288333333333,-66.8273333333333,21.14,2.28,md,6,224,,0.29,pr,pr71339018,2022-03-05T02:50:29.550Z,"7 km S of Indios, Puerto Rico",earthquake,1.49,2,0.104677921007132,5,reviewed,pr,pr
 2022-03-05T02:20:36.557Z,60.125,-151.6572,43.8,1.8,ml,,,,1,ak,ak0222xvpfyg,2022-03-05T02:27:52.459Z,"8 km N of Ninilchik, Alaska",earthquake,,1.6,,,automatic,ak,ak
 2022-03-05T02:05:16.930Z,38.8341675,-122.7973328,2.16,0.85,md,11,93,0.006909,0.01,nc,nc73701426,2022-03-05T02:13:10.091Z,"7km WNW of Cobb, CA",earthquake,0.39,1,,1,automatic,nc,nc
@@ -249,7 +249,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-04T03:12:28.130Z,19.2003333333333,-155.421,33.82,2.88,ml,55,150,,0.12,hv,hv72936892,2022-03-04T21:46:15.260Z,"6 km E of Pāhala, Hawaii",earthquake,0.42,0.47,0.114106297239258,39,reviewed,hv,hv
 2022-03-04T03:09:04.380Z,38.8196678,-122.7969971,2.87,0.48,md,12,61,0.01087,0.01,nc,nc73700846,2022-03-04T03:34:13.992Z,"6km NW of The Geysers, CA",earthquake,0.39,0.91,0.1,2,automatic,nc,nc
 2022-03-04T03:07:15.020Z,38.7726667,-122.8821667,3.64,0.37,md,22,204,0.02815,0.06,nc,nc73700836,2022-03-04T11:21:13.729Z,"11km W of The Geysers, CA",earthquake,0.23,0.32,0.063,4,reviewed,nc,nc
-2022-03-04T03:03:10.060Z,61.3946666666667,-152.04,2.57,0.04,ml,4,173,,0.1,av,av91504031,2022-03-04T19:09:48.520Z,"58 km WNW of Beluga, Alaska",earthquake,1.63,4.07,0.232378382780479,4,reviewed,av,av
-2022-03-04T03:00:51.365Z,-27.0801,-175.9215,10,5,mb,,78,2.799,1.07,us,us6000h1ys,2022-03-04T04:02:30.040Z,"Kermadec Islands region",earthquake,11.6,1.9,0.133,18,reviewed,us,us
-2022-03-04T02:59:16.906Z,61.8374,-150.8624,61.5,1.3,ml,,,,0.34,ak,ak0222w8eeve,2022-03-04T03:06:51.723Z,"32 km ESE of Skwentna, Alaska",earthquake,,1.3,,,automatic,ak,ak
-2022-03-04T02:58:37.505Z,-27.2215,-175.9624,10,5.1,mb,,130,2.667,1.22,us,us6000h1yl,2022-03-04T04:05:36.040Z,"Kermadec Islands region",earthquake,11.2,1.8,0.096,39,reviewed,us,us
