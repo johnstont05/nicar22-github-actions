@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-03-05T08:48:27.040Z,19.2021675109863,-155.511672973633,34.3899993896484,3.07999992,md,49,80,,0.140000001,hv,hv72938637,2022-03-05T08:51:52.640Z,"3 km W of Pāhala, Hawaii",earthquake,0.57,0.779999971,1.77999997,43,automatic,hv,hv
 2022-03-05T08:33:19.780Z,35.9148333,-117.6803333,13.21,1.04,ml,9,74,0.04098,0.13,ci,ci40200000,2022-03-05T08:36:44.850Z,"20km E of Little Lake, CA",earthquake,0.42,0.93,0.226,10,automatic,ci,ci
 2022-03-05T08:32:34.500Z,19.1625003814697,-155.47233581543,31.5799999237061,2.13000011,md,44,99,,0.119999997,hv,hv72938617,2022-03-05T08:35:42.480Z,"4 km S of Pāhala, Hawaii",earthquake,0.48,0.860000014,0.699999988,9,automatic,hv,hv
 2022-03-05T08:26:06.720Z,34.153,-117.059,22.81,1.25,ml,21,145,0.1582,0.27,ci,ci40199992,2022-03-05T08:29:49.172Z,"8km SE of Running Springs, CA",earthquake,0.88,2.12,0.247,26,automatic,ci,ci
@@ -89,7 +90,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-04T23:43:58.027Z,65.8178,-150.7555,13.2,1.3,ml,,,,0.93,ak,ak0222wkt6dn,2022-03-05T00:56:21.655Z,"44 km NW of Rampart, Alaska",earthquake,,0.6,,,reviewed,ak,ak
 2022-03-04T23:26:11.460Z,33.962,-117.0676667,11.84,1.21,ml,25,99,0.1369,0.24,ci,ci40199744,2022-03-04T23:29:52.823Z,"3km SSW of Calimesa, CA",earthquake,0.42,1.42,0.267,31,automatic,ci,ci
 2022-03-04T23:16:10.820Z,33.3753333,-116.3755,3.13,0.98,ml,26,85,0.05664,0.2,ci,ci40199736,2022-03-04T23:19:41.139Z,"13km N of Borrego Springs, CA",earthquake,0.3,0.91,0.127,25,automatic,ci,ci
-2022-03-04T23:15:00.640Z,36.611,-121.063,9.83,1.66,md,22,115,0.03753,0.12,nc,nc73701301,2022-03-05T08:25:11.388Z,"11km NE of Pinnacles, CA",earthquake,0.45,0.44,0.145,17,reviewed,nc,nc
+2022-03-04T23:15:00.640Z,36.611,-121.063,9.83,1.66,md,22,115,0.03753,0.12,nc,nc73701301,2022-03-05T08:48:14.524Z,"11km NE of Pinnacles, CA",earthquake,0.45,0.44,0.145,17,reviewed,nc,nc
 2022-03-04T22:54:58.110Z,36.6125,-121.0676667,10.04,1.82,md,32,109,0.04079,0.13,nc,nc73701291,2022-03-05T08:36:16.454Z,"11km NE of Pinnacles, CA",earthquake,0.31,0.45,0.27,31,reviewed,nc,nc
 2022-03-04T22:54:39.040Z,19.2110004425049,-155.451507568359,36.3800010681152,1.94000006,md,36,146,,0.109999999,hv,hv72938042,2022-03-04T22:57:52.960Z,"2 km ENE of Pāhala, Hawaii",earthquake,0.53,0.790000021,1.94000006,4,automatic,hv,hv
 2022-03-04T22:51:28.785Z,63.4584,-147.508,0,1.6,ml,,,,1.42,ak,ak0222wk9e53,2022-03-04T22:55:55.694Z,"72 km E of Cantwell, Alaska",earthquake,,0.5,,,automatic,ak,ak
