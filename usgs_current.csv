@@ -198,6 +198,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-05T08:01:45.128Z,51.5737,-174.8158,16.6,2.1,ml,,,,0.53,ak,ak0222xz5zn4,2022-03-05T20:52:56.415Z,"81 km SSW of Atka, Alaska",earthquake,,3.6,,,reviewed,ak,ak
 2022-03-05T07:54:48.350Z,38.838501,-122.8270035,1.36,0.37,md,8,99,0.006626,0.01,nc,nc73701556,2022-03-05T08:02:11.236Z,"9km NW of The Geysers, CA",earthquake,0.84,1.85,,1,automatic,nc,nc
 2022-03-05T07:45:28.512Z,-10.56,-74.1236,134.08,5.1,mww,,51,3.02,0.59,us,us6000h29g,2022-03-05T23:47:03.080Z,"68 km NNE of Puerto Ocopa, Peru",earthquake,8.1,5.7,0.058,29,reviewed,us,us
-2022-03-05T07:40:17.410Z,19.1900005340576,-155.51432800293,33.4099998474121,1.85000002,md,42,75,,0.129999995,hv,hv72938562,2022-03-05T07:43:27.910Z,"4 km WSW of Pāhala, Hawaii",earthquake,0.52,0.870000005,1.37,8,automatic,hv,hv
-2022-03-05T07:35:29.528Z,61.9707,-150.7121,24.6,1.2,ml,,,,0.53,ak,ak0222xyrt8w,2022-03-05T07:43:46.059Z,"36 km E of Skwentna, Alaska",earthquake,,0.7,,,automatic,ak,ak
-2022-03-05T07:35:11.754Z,62.8831,-143.552,1.1,2.1,ml,,,,0.7,ak,ak0222xyrrt6,2022-03-05T07:46:56.546Z,"11 km ESE of Mentasta Lake, Alaska",earthquake,,0.3,,,automatic,ak,ak
