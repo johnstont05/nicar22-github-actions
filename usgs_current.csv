@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-03-06T21:55:35.842Z,65.3175,-147.4683,30.8,1.6,ml,,,,0.99,ak,ak0222zuriy8,2022-03-06T21:58:35.791Z,"40 km N of Fox, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-03-06T21:41:37.620Z,38.8266678,-122.8554993,2.71,0.87,md,13,67,0.001385,0.02,nc,nc73702216,2022-03-06T21:50:10.877Z,"10km WNW of The Geysers, CA",earthquake,0.37,0.73,,1,automatic,nc,nc
 2022-03-06T21:30:58.853Z,36.4886,70.2509,207,4.2,mb,,125,0.687,0.78,us,us6000h2ls,2022-03-06T21:44:51.040Z,"36 km ESE of Farkhār, Afghanistan",earthquake,9.3,7.4,0.374,2,reviewed,us,us
 2022-03-06T21:21:23.050Z,19.1749992370605,-155.488830566406,34.560001373291,2.24,ml,45,87,,0.129999995,hv,hv72940452,2022-03-06T21:26:54.100Z,"3 km SSW of Pāhala, Hawaii",earthquake,0.5,0.699999988,4.58,4,automatic,hv,hv
@@ -72,7 +73,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-06T13:42:31.864Z,-15.9071,-71.672,156.78,4,mb,,128,2.685,0.28,us,us6000h2jf,2022-03-06T14:32:18.040Z,"24 km WNW of Pucara, Peru",earthquake,12,19.1,0.3,3,reviewed,us,us
 2022-03-06T13:33:46.060Z,19.1986675262451,-155.384170532227,33.1699981689453,2,md,38,165,,0.119999997,hv,hv72940082,2022-03-06T13:36:56.560Z,"9 km E of Pāhala, Hawaii",earthquake,0.6,0.709999979,0.860000014,3,automatic,hv,hv
 2022-03-06T13:16:44.081Z,60.8113,-150.9311,60.5,1.4,ml,,,,0.15,ak,ak0222zprptk,2022-03-06T13:21:35.513Z,"18 km SW of Point Possession, Alaska",earthquake,,1.6,,,automatic,ak,ak
-2022-03-06T13:13:20.810Z,35.9713333,-120.5235,3.44,0.76,md,22,93,0.02995,0.07,nc,nc73702076,2022-03-06T21:53:11.125Z,"12km NW of Parkfield, CA",earthquake,0.2,0.41,0.178,9,reviewed,nc,nc
+2022-03-06T13:13:20.810Z,35.9713333,-120.5235,3.44,0.76,md,22,93,0.02995,0.07,nc,nc73702076,2022-03-06T21:59:10.938Z,"12km NW of Parkfield, CA",earthquake,0.2,0.41,0.178,9,reviewed,nc,nc
 2022-03-06T13:08:59.850Z,38.8323326,-122.817337,1.77,0.85,md,12,57,0.01058,0.01,nc,nc73702071,2022-03-06T13:35:20.003Z,"8km NW of The Geysers, CA",earthquake,0.29,0.99,,1,automatic,nc,nc
 2022-03-06T12:59:27.277Z,38.0524,-118.4505,0,1.2,ml,11,224.06,0.203,0.2431,nn,nn00834963,2022-03-06T13:02:57.158Z,"25 km N of Benton, California",earthquake,,10.3,0.12,7,automatic,nn,nn
 2022-03-06T12:53:45.150Z,38.8235016,-122.8255005,0.93,0.36,md,7,95,0.007454,0,nc,nc73702061,2022-03-06T13:10:14.839Z,"8km NW of The Geysers, CA",earthquake,0.38,1.08,,1,automatic,nc,nc
