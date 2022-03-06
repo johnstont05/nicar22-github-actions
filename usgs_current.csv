@@ -1,6 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-03-06T16:53:20.610Z,35.7711667,-117.5871667,1.89,2.15,ml,27,64,0.04527,0.16,ci,ci40200792,2022-03-06T16:56:56.999Z,"16km W of Searles Valley, CA",earthquake,0.23,0.39,0.143,25,automatic,ci,ci
+2022-03-06T16:52:54.070Z,38.8414993,-122.8243332,1.54,0.37,md,8,110,0.009183,0.01,nc,nc73702121,2022-03-06T17:01:10.329Z,"9km WNW of Cobb, CA",earthquake,0.64,1.36,,1,automatic,nc,nc
 2022-03-06T16:42:44.110Z,33.4686667,-116.3941667,15.45,0.65,ml,17,91,0.06062,0.26,ci,ci40200784,2022-03-06T16:46:20.130Z,"23km SSW of La Quinta, CA",earthquake,0.61,1.21,0.092,15,automatic,ci,ci
-2022-03-06T16:41:30.820Z,35.2165,-117.627,3.59,1.24,ml,18,70,0.1862,0.2,ci,ci40200776,2022-03-06T16:45:02.092Z,"17km S of Johannesburg, CA",earthquake,0.42,1.92,0.173,21,automatic,ci,ci
+2022-03-06T16:41:30.820Z,35.2165,-117.627,3.59,1.24,ml,18,70,0.1862,0.2,ci,ci40200776,2022-03-06T16:56:23.734Z,"17km S of Johannesburg, CA",earthquake,0.42,1.92,0.173,21,automatic,ci,ci
 2022-03-06T16:40:15.680Z,33.7175,-116.6886667,17.56,0.66,ml,18,153,0.01966,0.21,ci,ci40200760,2022-03-06T16:43:44.162Z,"4km SE of Idyllwild, CA",earthquake,0.74,0.72,0.106,19,automatic,ci,ci
 2022-03-06T16:28:07.320Z,38.7859993,-122.7454987,2.01,0.21,md,7,95,0.007391,0.02,nc,nc73702111,2022-03-06T16:44:16.077Z,"1km NE of The Geysers, CA",earthquake,0.41,0.9,0.16,2,automatic,nc,nc
 2022-03-06T16:20:08.371Z,19.7025,-64.4633,10,3.9,ml,,266,1.589,0.28,us,us6000h2jt,2022-03-06T16:44:40.040Z,"155 km NNE of Cruz Bay, U.S. Virgin Islands",earthquake,4.5,2,0.052,48,reviewed,us,us
@@ -181,5 +183,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-05T17:34:24.759Z,-22.8227,-66.8189,209.56,4.2,mb,,61,1.26,1.89,us,us6000h2eh,2022-03-05T19:13:25.040Z,"115 km W of Abra Pampa, Argentina",earthquake,8.8,13.1,0.264,5,reviewed,us,us
 2022-03-05T17:21:53.490Z,33.4328333,-116.6023333,7.22,0.66,ml,21,107,0.0617,0.09,ci,ci40200200,2022-03-06T16:32:17.759Z,"15km SSE of Anza, CA",earthquake,0.19,0.34,0.036,7,reviewed,ci,ci
 2022-03-05T17:12:18.010Z,38.7908325,-122.7611694,1.71,0.76,md,13,62,0.009844,0.02,nc,nc73701701,2022-03-05T18:46:14.183Z,"2km NNW of The Geysers, CA",earthquake,0.26,0.52,0.42,3,automatic,nc,nc
-2022-03-05T16:59:25.263Z,54.4625,-159.6537,31.5,2.4,ml,,,,1.04,ak,ak0222y49v5m,2022-03-05T21:41:22.790Z,"111 km SSE of Sand Point, Alaska",earthquake,,3,,,reviewed,ak,ak
-2022-03-05T16:56:14.950Z,33.3455,-116.3848333,11.07,1.15,ml,35,67,0.06518,0.21,ci,ci40200192,2022-03-06T13:59:41.829Z,"10km N of Borrego Springs, CA",earthquake,0.3,0.48,0.135,28,reviewed,ci,ci
