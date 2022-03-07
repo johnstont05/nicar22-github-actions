@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-03-06T23:42:16.240Z,38.8221664,-122.8073349,2.57,0.33,md,13,58,0.002466,0.02,nc,nc73702241,2022-03-06T23:49:10.546Z,"7km NW of The Geysers, CA",earthquake,0.29,0.73,0.34,2,automatic,nc,nc
+2022-03-06T23:42:16.240Z,38.8221664,-122.8073349,2.57,0.33,md,13,58,0.002466,0.02,nc,nc73702241,2022-03-06T23:58:16.596Z,"7km NW of The Geysers, CA",earthquake,0.29,0.73,0.34,2,automatic,nc,nc
 2022-03-06T23:35:48.420Z,35.6466667,-117.6038333,7.8,0.84,ml,12,116,0.1278,0.12,ci,ci40201016,2022-03-06T23:39:19.999Z,"7km ENE of Ridgecrest, CA",earthquake,0.39,1.49,0.173,11,automatic,ci,ci
 2022-03-06T23:34:52.179Z,62.0002,-151.5238,76.2,1.4,ml,,,,0.53,ak,ak0222zvtxdl,2022-03-06T23:40:56.884Z,"6 km W of Skwentna, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2022-03-06T23:23:37.360Z,33.713,-116.7158333,18.6,0.7,ml,23,94,0.002296,0.26,ci,ci40201008,2022-03-06T23:27:07.812Z,"3km S of Idyllwild, CA",earthquake,0.61,0.57,0.176,16,automatic,ci,ci
@@ -104,7 +104,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-06T12:07:10.925Z,-7.9437,120.6695,10,4.4,mb,,97,1.697,0.61,us,us6000h2j5,2022-03-06T12:23:29.040Z,"77 km NNE of Ruteng, Indonesia",earthquake,6.6,1.9,0.123,19,reviewed,us,us
 2022-03-06T12:02:54.460Z,38.7836685,-122.7453308,1.71,0.21,md,8,91,0.00674,0.02,nc,nc73702046,2022-03-06T12:19:14.529Z,"1km NE of The Geysers, CA",earthquake,0.36,0.79,0.16,2,automatic,nc,nc
 2022-03-06T11:53:59.143Z,62.1566,-151.2083,70.3,3.9,ml,,,,0.51,ak,ak0222zost6b,2022-03-06T21:53:03.633Z,"21 km NNE of Skwentna, Alaska",earthquake,,0.4,,,reviewed,ak,ak
-2022-03-06T11:45:15.270Z,40.205,-121.3396667,8.7,1.8,md,13,89,0.1518,0.05,nc,nc73702041,2022-03-06T21:31:15.938Z,"14km W of Almanor, CA",earthquake,0.25,0.91,0.169,20,reviewed,nc,nc
+2022-03-06T11:45:15.270Z,40.205,-121.3396667,8.7,1.8,md,13,89,0.1518,0.05,nc,nc73702041,2022-03-06T23:58:16.734Z,"14km W of Almanor, CA",earthquake,0.25,0.91,0.169,20,reviewed,nc,nc
 2022-03-06T11:42:01.540Z,38.8279991,-122.8665009,2.09,0.63,md,16,73,0.007534,0.02,nc,nc73702036,2022-03-06T11:58:14.536Z,"11km WNW of The Geysers, CA",earthquake,0.25,0.54,0.51,3,automatic,nc,nc
 2022-03-06T11:39:37.090Z,19.1698341369629,-155.482666015625,34.3600006103516,2.74,ml,51,92,,0.119999997,hv,hv72940012,2022-03-06T11:50:50.040Z,"3 km S of Pāhala, Hawaii",earthquake,0.55,0.649999976,3.53,32,automatic,hv,hv
 2022-03-06T11:36:47.910Z,17.9261666666667,-66.8683333333333,10.4,2.22,md,5,224,,0.18,pr,pr71339243,2022-03-06T13:31:38.600Z,"6 km SSE of Maria Antonia, Puerto Rico",earthquake,2.32,0.98,0.0620696348246561,4,reviewed,pr,pr
